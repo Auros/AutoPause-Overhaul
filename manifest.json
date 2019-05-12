@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "Auros",
+  "description": "This mod will pause your game in response to various errors that could happen",
+  "features": [],
+  "icon":  "AutoPause.Utilities.AutoPause.png",
+  "gameVersion": "0.13.2",
+  "id": "AutoPause",
+  "name": "AutoPause",
+  "version": "6.0.0"
+}
